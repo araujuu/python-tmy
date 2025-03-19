@@ -13,4 +13,10 @@ while True:
 
 for i, j in frases.items():
     print(i, "->", j)
+
+items = list(frases.items())
+items.sort(key=lambda x:x[-1], reverse=True) 
+
+for i, j in items:
+    print(i, "->", j)
 # %%
