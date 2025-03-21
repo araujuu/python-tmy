@@ -2,12 +2,12 @@
 
 numero = int(input("Digite um número para saber se ele é par ou impar: "))
 
-def numeroImparPar():
+def par_impar():
     if numero % 2 == 0:
-        print("Esse número é par")
+        return "par"
     else:
-        print("esse número é impar")
+        return "impar"
 
-print(numero)
-numeroImparPar()
+print("o valor", numero, "é",par_impar())
+par_impar()
 # %%
