@@ -1,0 +1,5 @@
+Era uma vez em um lugar muito muito muito distante, existia um menino que gostava de escrever codigos em python. 
+
+Esse menino tinha grande interesse de computação.
+
+Junto com sua melhor amiga, que sabia muito mais do que ele, conseguiram seu primeiro projeto juntos.
